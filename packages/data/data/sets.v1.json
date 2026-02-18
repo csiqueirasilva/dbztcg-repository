@@ -1,0 +1,121 @@
+[
+  {
+    "setCode": "AWA",
+    "setName": "Awakening",
+    "cardCountExpected": null,
+    "cardCountParsed": 342,
+    "sourceFolders": [
+      "Awakening"
+    ],
+    "parseRunMetadata": {
+      "startedAt": "2026-02-16T07:29:33.691Z",
+      "finishedAt": "2026-02-17T22:22:57.258Z",
+      "acceptedCards": 342,
+      "reviewCards": 11,
+      "parseModel": "codex-default",
+      "minConfidence": 0.9
+    }
+  },
+  {
+    "setCode": "EVO",
+    "setName": "Evolution",
+    "cardCountExpected": null,
+    "cardCountParsed": 76,
+    "sourceFolders": [
+      "Evolution"
+    ],
+    "parseRunMetadata": {
+      "startedAt": "2026-02-16T07:29:33.691Z",
+      "finishedAt": "2026-02-18T08:06:47.723Z",
+      "acceptedCards": 76,
+      "reviewCards": 11,
+      "parseModel": "codex-default",
+      "minConfidence": 0.9
+    }
+  },
+  {
+    "setCode": "HNV",
+    "setName": "Heroes & Villains",
+    "cardCountExpected": null,
+    "cardCountParsed": 6,
+    "sourceFolders": [
+      "Heroes & Villains"
+    ],
+    "parseRunMetadata": {
+      "startedAt": "2026-02-16T07:29:33.691Z",
+      "finishedAt": "2026-02-16T22:19:03.124Z",
+      "acceptedCards": 6,
+      "reviewCards": 0,
+      "parseModel": "codex-default",
+      "minConfidence": 0.9
+    }
+  },
+  {
+    "setCode": "MOV",
+    "setName": "Movie Collection",
+    "cardCountExpected": null,
+    "cardCountParsed": 0,
+    "sourceFolders": [
+      "Movie Collection"
+    ],
+    "parseRunMetadata": {
+      "startedAt": "2026-02-16T07:29:33.691Z",
+      "finishedAt": "2026-02-16T08:46:27.575Z",
+      "acceptedCards": 0,
+      "reviewCards": 0,
+      "parseModel": "codex-default",
+      "minConfidence": 0.9
+    }
+  },
+  {
+    "setCode": "PER",
+    "setName": "Perfection",
+    "cardCountExpected": null,
+    "cardCountParsed": 0,
+    "sourceFolders": [
+      "Perfection"
+    ],
+    "parseRunMetadata": {
+      "startedAt": "2026-02-16T07:29:33.691Z",
+      "finishedAt": "2026-02-16T08:46:27.575Z",
+      "acceptedCards": 0,
+      "reviewCards": 0,
+      "parseModel": "codex-default",
+      "minConfidence": 0.9
+    }
+  },
+  {
+    "setCode": "PRE",
+    "setName": "Premiere Set",
+    "cardCountExpected": null,
+    "cardCountParsed": 2,
+    "sourceFolders": [
+      "Premiere Set"
+    ],
+    "parseRunMetadata": {
+      "startedAt": "2026-02-16T07:29:33.691Z",
+      "finishedAt": "2026-02-17T16:23:17.825Z",
+      "acceptedCards": 2,
+      "reviewCards": 0,
+      "parseModel": "codex-default+reprint-reuse",
+      "minConfidence": 0.9
+    }
+  },
+  {
+    "setCode": "VEN",
+    "setName": "Vengeance",
+    "cardCountExpected": null,
+    "cardCountParsed": 1,
+    "sourceFolders": [
+      "Vengeance"
+    ],
+    "parseRunMetadata": {
+      "startedAt": "2026-02-16T07:29:33.691Z",
+      "finishedAt": "2026-02-17T16:25:13.620Z",
+      "acceptedCards": 1,
+      "reviewCards": 0,
+      "parseModel": "codex-default+reprint-reuse",
+      "minConfidence": 0.9
+    }
+  }
+]

@@ -1,0 +1,178 @@
+{
+  "cardTypes": [
+    "personality",
+    "mastery",
+    "physical combat",
+    "energy combat",
+    "event",
+    "setup",
+    "drill",
+    "dragon ball"
+  ],
+  "styles": [
+    "black",
+    "blue",
+    "namekian",
+    "orange",
+    "red",
+    "saiyan",
+    "freestyle"
+  ],
+  "iconKeywords": {
+    "attack": [
+      "attack",
+      "physical attack",
+      "energy attack",
+      "combat",
+      "damage",
+      "combat card"
+    ],
+    "defense": [
+      "defense",
+      "defend",
+      "block",
+      "prevent",
+      "defensive card",
+      "stops an attack"
+    ],
+    "quick": [
+      "quick",
+      "immediate",
+      "instant",
+      "instantly",
+      "immediately",
+      "whenever appropriate",
+      "contextual timing"
+    ],
+    "constant": [
+      "constant",
+      "continuous",
+      "while this card is in play",
+      "while in play",
+      "continuous effect",
+      "always active"
+    ]
+  },
+  "affiliationKeywords": {
+    "hero": [
+      "hero",
+      "heroes",
+      "heroes only",
+      "heroic"
+    ],
+    "villain": [
+      "villain",
+      "villains",
+      "villains only",
+      "villainous"
+    ],
+    "neutral": [
+      "neutral",
+      "non-aligned",
+      "unaligned"
+    ]
+  },
+  "allyKeywords": [
+    "ally",
+    "allies",
+    "ally card"
+  ],
+  "iconReference": {
+    "pageNumber": 12,
+    "sourceImagePath": "/home/csiqueira/dbztcg-repository/packages/data/raw/intermediate/rulebook-page-12.png",
+    "sourcePdfPath": "/home/csiqueira/dbztcg-repository/packages/data/panini-rule-book-3-0.pdf",
+    "extractedAt": "2026-02-16T18:09:57.537Z",
+    "icons": {
+      "attack": {
+        "symbolName": "crossed-swords",
+        "marker": "[attack icon]",
+        "meaning": "a card that performs an attack",
+        "cues": [
+          "attack",
+          "physical attack",
+          "energy attack",
+          "damage",
+          "combat card"
+        ],
+        "assetPath": "/home/csiqueira/dbztcg-repository/packages/data/raw/intermediate/rulebook-icons/attack-icon.png"
+      },
+      "defense": {
+        "symbolName": "shield",
+        "marker": "[defense icon]",
+        "meaning": "a defensive card that can be used against attacks",
+        "cues": [
+          "defensive card",
+          "stops an attack",
+          "prevent",
+          "defense"
+        ],
+        "assetPath": "/home/csiqueira/dbztcg-repository/packages/data/raw/intermediate/rulebook-icons/defense-icon.png"
+      },
+      "constant": {
+        "symbolName": "infinity",
+        "marker": "[constant icon]",
+        "meaning": "a continuous effect that is constantly active while the card is in play",
+        "cues": [
+          "constant",
+          "continuous effect",
+          "while this card is in play",
+          "while in play",
+          "always active"
+        ],
+        "assetPath": "/home/csiqueira/dbztcg-repository/packages/data/raw/intermediate/rulebook-icons/constant-icon.png"
+      },
+      "quick": {
+        "symbolName": "lightning-bolt",
+        "marker": "[timing icon]",
+        "meaning": "an effect with contextual timing that can be instantly played or used (whenever appropriate)",
+        "cues": [
+          "quick",
+          "immediately",
+          "instantly",
+          "whenever appropriate",
+          "contextual timing"
+        ],
+        "assetPath": "/home/csiqueira/dbztcg-repository/packages/data/raw/intermediate/rulebook-icons/timing-icon.png"
+      }
+    }
+  },
+  "keywords": [
+    "personality",
+    "mastery",
+    "physical combat",
+    "energy combat",
+    "event",
+    "setup",
+    "drill",
+    "dragon ball",
+    "black",
+    "blue",
+    "namekian",
+    "orange",
+    "red",
+    "saiyan",
+    "freestyle",
+    "stages",
+    "pur",
+    "anger",
+    "power",
+    "level",
+    "combat",
+    "life deck",
+    "dragon ball victory",
+    "hero",
+    "heroes",
+    "heroes only",
+    "heroic",
+    "villain",
+    "villains",
+    "villains only",
+    "villainous",
+    "neutral",
+    "non-aligned",
+    "unaligned",
+    "ally",
+    "allies",
+    "ally card"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "dbzccg-tools",
+  "private": true,
+  "type": "module",
+  "packageManager": "pnpm@9.15.4",
+  "scripts": {
+    "lint": "eslint .",
+    "typecheck": "tsc -b",
+    "scrape": "pnpm --filter @dbzccg/scraper run scrape",
+    "pipeline": "pnpm --filter @dbzccg/pipeline run build",
+    "rescan:card": "pnpm --filter @dbzccg/pipeline run rescan:card",
+    "migrate:metadata": "pnpm --filter @dbzccg/pipeline run migrate:metadata",
+    "migrate:personality": "pnpm --filter @dbzccg/pipeline run migrate:personality",
+    "reset:data": "pnpm --filter @dbzccg/pipeline run migrate:personality -- --wipe",
+    "dev:db-manager": "pnpm --filter @dbzccg/database-manager run dev",
+    "build:db-manager": "pnpm --filter @dbzccg/database-manager run build",
+    "dev:deck": "pnpm --filter @dbzccg/deck-builder run dev",
+    "build:deck": "pnpm --filter @dbzccg/deck-builder run build"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}

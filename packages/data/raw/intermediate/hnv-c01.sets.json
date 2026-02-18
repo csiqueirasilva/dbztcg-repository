@@ -1,0 +1,19 @@
+[
+  {
+    "setCode": "HNV",
+    "setName": "Heroes & Villains",
+    "cardCountExpected": null,
+    "cardCountParsed": 1,
+    "sourceFolders": [
+      "Heroes & Villains"
+    ],
+    "parseRunMetadata": {
+      "startedAt": "2026-02-16T14:50:50.213Z",
+      "finishedAt": "2026-02-16T15:05:01.491Z",
+      "acceptedCards": 1,
+      "reviewCards": 0,
+      "parseModel": "codex-default",
+      "minConfidence": 0.9
+    }
+  }
+]

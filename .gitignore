@@ -1,0 +1,39 @@
+# Dependencies
+node_modules/
+.pnpm-store/
+.npm/
+
+# Build outputs
+dist/
+build/
+coverage/
+*.tsbuildinfo
+
+# Logs and temp files
+*.log
+tmp/
+temp/
+*.tmp
+
+# Environment files
+.env
+.env.*
+!.env.example
+!.env.local.example
+
+# Tool caches/reports
+.cache/
+playwright-report/
+test-results/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Intentionally not ignored:
+# - packages/data/raw/images/
+
+# added bridge directories between human and ai
+llm-screenshots

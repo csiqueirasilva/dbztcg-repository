@@ -1,0 +1,18 @@
+{
+  "name": "@dbzccg/scraper",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "scrape": "tsx src/cli.ts"
+  },
+  "dependencies": {
+    "playwright": "^1.51.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.10",
+    "tsx": "^4.19.3",
+    "typescript": "^5.0.0"
+  }
+}

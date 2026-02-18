@@ -1,0 +1,131 @@
+[
+  {
+    "id": "HNV-C01",
+    "setCode": "HNV",
+    "setName": "Heroes & Villains",
+    "printedNumber": "C01",
+    "rarityPrefix": "C",
+    "name": "Nail",
+    "title": "Watchful",
+    "characterKey": "nail",
+    "personalityFamilyId": "HNV-nail",
+    "cardType": "personality",
+    "affiliation": "hero",
+    "isMainPersonality": true,
+    "isAlly": false,
+    "cardSubtypes": [
+      "level_1"
+    ],
+    "style": null,
+    "icons": {
+      "isAttack": true,
+      "isDefense": true,
+      "isQuick": false,
+      "isConstant": false,
+      "rawIconEvidence": [
+        "Crossed-swords attack icon appears before the POWER text.",
+        "Text explicitly says \"Physical attack.\"",
+        "rulebook-page12:defense-cue"
+      ]
+    },
+    "tags": [
+      "physical-attack",
+      "damage",
+      "life-deck",
+      "attack-icon",
+      "defense-icon",
+      "keyword:power",
+      "keyword:life-deck"
+    ],
+    "powerStageValues": [
+      22000,
+      18000,
+      14000,
+      10000,
+      6000,
+      5000,
+      4000,
+      3000,
+      2000,
+      1000,
+      0
+    ],
+    "pur": 2,
+    "endurance": null,
+    "personalityLevel": 1,
+    "mainPowerText": "Physical attack. DAMAGE: AT +2 life cards. If this attack is stopped, destroy the top card of your opponent's Life Deck.",
+    "cardTextRaw": "POWER: Physical attack. DAMAGE: AT +2 life cards. If this attack is stopped, destroy the top card of your opponent's Life Deck.",
+    "effectChunks": [
+      {
+        "kind": "effect",
+        "text": "Physical attack.",
+        "keywords": [
+          "physical-attack",
+          "attack"
+        ]
+      },
+      {
+        "kind": "effect",
+        "text": "DAMAGE: AT +2 life cards.",
+        "keywords": [
+          "damage",
+          "at-2-life-cards"
+        ]
+      },
+      {
+        "kind": "condition",
+        "text": "If this attack is stopped,",
+        "keywords": [
+          "if",
+          "stopped"
+        ]
+      },
+      {
+        "kind": "effect",
+        "text": "destroy the top card of your opponent's Life Deck.",
+        "keywords": [
+          "destroy",
+          "top-card",
+          "opponents-life-deck"
+        ]
+      }
+    ],
+    "source": {
+      "imagePath": "/home/csiqueira/dbztcg-repository/packages/data/raw/images/Heroes & Villains/C01-Nail-Watchful-Lv.-1-2.jpg",
+      "imageFileName": "C01-Nail-Watchful-Lv.-1-2.jpg",
+      "sourceUrl": null
+    },
+    "confidence": {
+      "overall": 0.9506333333333334,
+      "fields": {
+        "setCode": 0.99,
+        "printedNumber": 0.99,
+        "rarityPrefix": 0.95,
+        "name": 0.99,
+        "cardType": 0.99,
+        "affiliation": 0.99,
+        "isMainPersonality": 0.93,
+        "isAlly": 0.99,
+        "cardTextRaw": 0.752,
+        "personalityLevel": 0.99,
+        "powerStageValues": 0.99,
+        "pur": 0.99,
+        "endurance": 0.92,
+        "mainPowerText": 0.8075
+      }
+    },
+    "review": {
+      "required": false,
+      "reasons": [],
+      "notes": []
+    },
+    "raw": {
+      "ocrText": "",
+      "ocrBlocks": [],
+      "llmRawJson": "{\"name\":\"Nail\",\"title\":\"Watchful\",\"characterKey\":\"nail\",\"cardType\":\"personality\",\"affiliation\":\"hero\",\"isMainPersonality\":true,\"isAlly\":false,\"cardSubtypes\":[\"level 1\"],\"style\":null,\"tags\":[\"physical attack\",\"damage\",\"life deck\"],\"personalityLevel\":1,\"powerStages\":22000,\"powerStageValues\":[22000,18000,14000,10000,6000,5000,4000,3000,2000,1000,0],\"pur\":2,\"endurance\":null,\"mainPowerText\":\"Physical attack. DAMAGE: AT +2 life cards. If this attack is stopped, destroy the top card of your opponent's Life Deck.\",\"cardTextRaw\":\"POWER: Physical attack. DAMAGE: AT +2 life cards. If this attack is stopped, destroy the top card of your opponent's Life Deck.\",\"effectChunks\":[{\"kind\":\"effect\",\"text\":\"Physical attack.\",\"keywords\":[\"physical attack\",\"attack\"]},{\"kind\":\"effect\",\"text\":\"DAMAGE: AT +2 life cards.\",\"keywords\":[\"damage\",\"AT +2 life cards\"]},{\"kind\":\"condition\",\"text\":\"If this attack is stopped,\",\"keywords\":[\"if\",\"stopped\"]},{\"kind\":\"effect\",\"text\":\"destroy the top card of your opponent's Life Deck.\",\"keywords\":[\"destroy\",\"top card\",\"opponent's Life Deck\"]}],\"icons\":{\"isAttack\":true,\"isDefense\":false,\"isQuick\":false,\"isConstant\":false,\"rawIconEvidence\":[\"Crossed-swords attack icon appears before the POWER text.\",\"Text explicitly says \\\"Physical attack.\\\"\"]},\"fieldConfidence\":{\"name\":0.99,\"cardType\":0.99,\"affiliation\":0.99,\"isMainPersonality\":0.93,\"isAlly\":0.99,\"cardTextRaw\":0.94,\"powerStageValues\":0.99,\"endurance\":0.92,\"personalityLevel\":0.99,\"powerStages\":0.99,\"pur\":0.99,\"mainPowerText\":0.95}}",
+      "warnings": [
+        "OCR failed for /home/csiqueira/dbztcg-repository/packages/data/raw/images/Heroes & Villains/C01-Nail-Watchful-Lv.-1-2.jpg: spawn tesseract ENOENT"
+      ]
+    }
+  }
+]

@@ -1,0 +1,39 @@
+{
+  "cardTypes": [],
+  "styles": [],
+  "iconKeywords": {
+    "attack": [
+      "attack",
+      "physical",
+      "energy",
+      "combat",
+      "damage"
+    ],
+    "defense": [
+      "defense",
+      "defend",
+      "block",
+      "prevent"
+    ],
+    "quick": [
+      "quick",
+      "immediate",
+      "instant"
+    ],
+    "constant": [
+      "constant",
+      "continuous",
+      "while this card is in play"
+    ]
+  },
+  "keywords": [
+    "stages",
+    "pur",
+    "anger",
+    "power",
+    "level",
+    "combat",
+    "life deck",
+    "dragon ball victory"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "@dbzccg/pipeline",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "pnpm --filter @dbzccg/schema run build && tsx src/cli.ts build-set --set HNV",
+    "build:set": "pnpm --filter @dbzccg/schema run build && tsx src/cli.ts build-set",
+    "build:all": "pnpm --filter @dbzccg/schema run build && tsx src/cli.ts build-all",
+    "extract:rulebook": "pnpm --filter @dbzccg/schema run build && tsx src/cli.ts extract-rulebook",
+    "backfill:cards": "pnpm --filter @dbzccg/schema run build && tsx src/tools/backfill-cards.ts",
+    "migrate:metadata": "pnpm --filter @dbzccg/schema run build && tsx src/tools/migrate-metadata.ts",
+    "rescan:card": "pnpm --filter @dbzccg/schema run build && tsx src/tools/rescan-card.ts",
+    "migrate:personality": "pnpm --filter @dbzccg/schema run build && tsx src/tools/migrate-personality-card-type.ts",
+    "typecheck": "pnpm --filter @dbzccg/schema run build && tsc -p tsconfig.json"
+  },
+  "dependencies": {
+    "@dbzccg/schema": "workspace:*",
+    "pngjs": "^7.0.0",
+    "zod": "^3.24.2",
+    "zod-to-json-schema": "^3.24.2"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.10",
+    "@types/pngjs": "^6.0.5",
+    "tsx": "^4.19.3",
+    "typescript": "^5.0.0"
+  }
+}

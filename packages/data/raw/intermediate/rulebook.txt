@@ -1,0 +1,728 @@
+2016 DR AGON BALL Z TR ADING CARD GAME
+
+™
+
+THE BASICS
+Welcome to the world of Dragon Ball Z! In the Dragon Ball Z
+Trading Card Game, you’ll construct your own customized
+deck and battle it out with an opponent to determine the
+fate of the galaxy. This rule book will teach you everything
+you need to know to start playing the Dragon Ball Z TCG,
+and further rulings can be found in the Current Rulings
+Document at dbztcg.com.
+There are seven different card types to consider when
+building a deck. Main Personality cards and Mastery cards
+will begin the game in play. From there, your Life Deck will
+consist of 60 Physical Combat cards, Energy Combat cards,
+Event cards, Setup cards, Drill cards, Ally cards, and Dragon
+Balls. With these, you’ll inflict damage on your opponent,
+collect Dragon Balls, and level up your Main Personality.
+When your opponent’s deck runs out of cards, you win
+the game! You can also win by collecting all seven
+Dragon Balls, or by reaching 5 Anger on your
+highest Main Personality level.
+
+CARD TYPES
+Main Personality - Your Main Personality (“MP”) represents
+your character on the battlefield. A Main Personality set is
+comprised of four Levels, each one with its own Power Up
+Rating (“PUR”) and Power. Main Personalities also have 11
+Power Stages. You’ll keep track of your current Power Stage
+by moving up and down your Power Levels with the back of
+a card or by using dice. You can reach higher Levels of your
+Main Personality by raising your Anger, which you’ll learn
+about soon.
+CARD RARITY INDICATOR
+CARD NUMBER
+
+PERSONALITY LEVEL INDICATOR
+
+POWER STAGES
+SET SYMBOL
+POWER UP RATING
+
+ALIGNMENT
+Main Personality cards that are blue are Heroes, while red
+denotes a Villain.
+
+Mastery - Your Mastery card represents your fighting style.
+There are six Style types in the game: Black, Blue, Namekian, Orange,
+Red, and Saiyan.
+
+Black: The manipulation style. Black uses disruptive effects to control
+your opponent’s options, as well as deal damage from a variety of
+attack types.
+Blue: The reversal style. Blue cards will often prevent damage or use
+your opponent’s own cards against them.
+Orange: The controlling style. Orange seeks to establish dominance by
+accumulating cards in play while unleashing powerful attacks.
+Red: The aggressive style. Red cards emphasize advancing your Main
+Personality and often reward you for being on higher Levels.
+Namekian: The regenerative style. Namekian decks pay special attention
+to cards that have been discarded from the deck. This style can only be
+used if your MP is a Namekian Personality.
+Namekian Personalities: Piccolo, Nail, Lord Slug, Gohan, Cell,
+Cell Jr., Dende, Kami
+Saiyan: The battle-crazed style. Saiyan cards are focused on all-out
+attacking and brute force. This style can only be used if your MP is a
+Saiyan Personality.
+Saiyan Personalities: Goku, Vegeta, Gohan, Nappa, Raditz, Trunks,
+Turles, Cell, Cell Jr., King Vegeta, Bardock, Broly, Paragus, Goten, 		
+Pan, Gotenks, Gogeta, Vegito
+
+Freestyle: Freestyle cards are non-Styled. Any cards that don’t have
+Black, Blue, Namekian, Orange, Red, or Saiyan as the first word in
+their title are Freestyle cards.
+Your Main Personality and Mastery begin the game in play and
+shape the entire theme of your deck. Mixing and matching
+different Main Personalities with different Masteries can yield
+powerful results. Choose wisely! From there, your deck will be
+comprised of the following types of cards.
+Physical Combat cards are strikes, holds,
+and other types of attacks and blocks that
+will be used to battle with your opponent.
+
+Energy Combat cards are also used for
+attacking and blocking. Beams, blasts and
+other ranged moves are represented on
+these cards.
+
+Event cards create powerful effects that
+can swing the entire game in your favor.
+
+The following cards can only be put into play on your turn
+during the Planning Step, which will be explained in a bit.
+Drills represent knowledge or training, and are
+constantly active once they are on the table.
+Whenever your Main Personality advances or
+lowers a level, all of your Drills are discarded.
+You may never attempt to play or place into
+play a Styled Drill that matches the name of a
+Drill you already control, but there is no limit
+on Freestyle Drills.
+
+Setups are cards that you’ll put into
+play and save for later. You won’t get
+to use any effects of a Setup until it is
+activated.
+
+Ally cards represent other characters who
+can come to your aid. They have a PUR,
+Alignment, Power Stages, and a Power
+just like your Main Personality. Allies have
+special rules for what they can do during
+Combat.
+
+Dragon Balls are a set of seven mystical
+objects that will grant the wish of anyone
+who can collect them all. When you play
+a Dragon Ball, you must immediately use
+all of its effects. There are different sets of
+Dragon Balls, such as “Earth Dragon Balls”
+or “Namek Dragon Balls.”
+
+ANGER
+Anger is the mechanism you’ll use to level up. You begin
+the game with zero Anger, and you can keep track of it with
+things like dice or tokens. Card effects will raise your Anger
+throughout the game, but your opponent may use effects that
+lower your Anger as well. Whenever your Anger level reaches
+five, advance your Main Personality to the next Level and set
+your MP at ten Power Stages above zero. Your Anger is then
+set back to zero, all of your Drills are discarded, and you may
+use the new Power of your Main Personality this turn.
+
+Note: Your Anger cannot go below zero, and you do not lose a
+Level as a result of your Anger being lowered. If an effect grants
+more Anger than necessary to level up, it does not carry over to
+the next Level. If your Main Personality is advanced or lowered to
+any Level by an effect, your Anger remains the same. If you are
+lowered a Level, set your Main Personality to five Power Stages
+above zero. Whenever you cannot win by MPPV and would
+advance a level by gaining anger on Level 4, your anger resets to
+zero and your MP is set to its highest power stage.
+
+MAKING A DECK
+Your deck must contain a Main Personality set (Levels 1-4,
+each card of the same MP name and Alignment), a Mastery,
+and exactly 60 other cards.
+
+You may include only one copy of any given Dragon Ball or
+Ally. You may only include Dragon Balls from one set (for
+example, you may not include both Earth Dragon Balls and
+Namek Dragon Balls in the same deck). You cannot include
+any Allies that match the name of your MP.
+Your deck may contain up to three copies of any other
+eligible card. All of your Styled cards must match the Style
+of your Mastery. You may also include Freestyle cards. Some
+Freestyle cards are Named, meaning they have a character’s
+name in the title. Any Named cards you include must match
+the name of your MP. Any cards tied to an Alignment must
+match the Alignment of your MP (this includes Allies).
+When you first start out, use a Starter Deck in order to grasp
+how things work. From there, add cards from Booster Packs
+to design your own personalized creation!
+
+GAME ZONES
+Throughout the game, you’ll have cards in your hand and Life
+Deck, cards in play on the table, and cards that have been
+discarded or removed from the game.
+Life Deck - Your 60-card Life Deck represents your various skills
+and techniques, as well as how much vitality you have left.
+You’ll draw cards from it to perform attacks, and take damage
+by discarding cards from it to the Discard Pile.
+Hand - Your hand will be filled with cards that you have drawn
+during the course of gameplay. During Combat, you’ll play
+cards from your hand, use their effects, and then discard them.
+In Play - Some cards stay in play and remain on the table. Your
+Main Personality and Mastery will always be in play on the
+table, while other cards like Setups or Allies will come and go.
+Discard Pile - Cards that are discarded after being played or
+used are placed face up in the Discard Pile. Sometimes your
+opponent will Destroy cards that you have in play, which sends
+them to the Discard Pile. When you take damage, you’ll discard
+cards from the top of your Life Deck and place them in the
+Discard Pile. Cards in the Discard Pile must stay in order.
+Both players may inspect either Discard Pile at any time.
+
+Banished Zone - When you Banish a card, it is removed from
+the game by placing it face up in the Banished Zone.
+You might play cards that Banish themselves after use, or your
+opponent may use various effects that Banish your cards in
+play. If a Dragon Ball is discarded or destroyed and it matches
+a Dragon Ball already in play, it is Banished. Cards in the
+Banished Zone may be in any order. Both players may inspect
+either Banished Zone at any time.
+GAMEPLAY
+Once you and an opponent both have a deck, you’re ready
+to play! Begin the game with your Mastery in play, as well
+as your Main Personality set on Level 1 at five Power Stages
+above zero. After shuffling your deck and deciding who goes
+first, the initial turn begins. Each turn consists of the
+following steps:
+1. Draw Step
+At the beginning of your turn, draw three cards from the top of
+your Life Deck.
+2. Planning Step
+At this time, you may play any Allies, Setups, Drills, or Dragon
+Balls by placing them face up on your side of the table. Then,
+your Main Personality and any Allies gain power stages equal
+to the amount listed for their Power Up Rating.
+Note: Allies come into play at three Power Stages above zero. Drills
+generally have
+effects that are always active, but remember
+that Setups need to be activated during combat in order to use their
+abilities. Also recall that any time you play a Dragon Ball, you must
+immediately use all of its effects (and it is then considered “in play”).
+You may never attempt to play or place into play a Dragon Ball that
+matches the name of a Dragon Ball already in play.
+
+3. Combat Step (Optional)
+You may now decide to declare combat against your opponent.
+You’ll find out the details of the Combat Step below.
+4. Discard Step
+At the start of the discard step, you must discard cards from
+your hand (one at a time) until you have one or zero held cards.
+Then, your opponent must do the same. Either player may
+choose to discard down to zero held cards.
+5. Rejuvenation Step
+If you did not declare combat this turn, you may Rejuvenate
+one card. Rejuvenating means taking the top card of your
+discard pile and placing it face down on the bottom of your
+Life Deck.
+After you have finished these steps, your turn is over. Your
+opponent then takes the next turn and moves through the
+same steps. Continue alternating turns until the game ends.
+There are three ways to win the game:
+Survival Victory - if your opponent’s Life Deck has no cards left
+in it, you win the game.
+Most Powerful Personality Victory (“MPPV”) - if you reach five
+Anger while your Main Personality is on Level 4, you win
+the game.
+Dragon Ball Victory - if you control a set of all seven Dragon
+Balls, you win the game.
+
+THE COMBAT STEP
+The Combat Step is the heart of the game, and most of the
+excitement during a match occurs here.
+When you declare combat, use any “when entering combat”
+effects you have (such as from your Mastery, Main Personality,
+Power, Drills, etc). Next, your opponent uses any “when
+entering combat” effects and then draws three cards.
+The Combat Step involves alternating Actions between players.
+You make an Action such as playing an attack or using an effect,
+against which your opponent may defend. Your opponent then
+makes an Action, against which you may defend. Then you
+make the next Action, and so on, until both players pass.
+The player who declared combat makes the first Action. Here
+are the types of Actions you can make:
+»» Playing an
+card: Attacks will usually be Physical
+Combat or Energy Combat cards that you play from your
+hand, or the Power of your Main Personality. Whenever
+you play an attack, your opponent may attempt to defend
+with an appropriate defense card.
+»» Use a Power: The Powers of each Main Personality Level,
+Ally, and Mastery, may only be used once per turn. To
+use the Power of an Event, play it from your hand during
+combat and then discard it after use. To use the Power of
+a Setup in play, activate it and then discard it after use.
+»» Passing: If you don’t want to play or use anything, you
+may pass. You must pass if you have no other remaining
+Actions to make. When both players pass consecutively,
+the Combat Step ends.
+
+ICONS
+Cards have different icons that tell you when they can be used.
+- [attack icon] A card that performs an attack
+- [defense icon] A defensive card that can be used against attacks
+- [constant icon] A continuous effect that is constantly active while the card is in play
+- [timing icon] An effect with contextual timing that can be instantly played or used (whenever appropriate)
+HOW [attack icon] AND [defense icon] CARDS WORK
+
+Whenever you play an [attack icon], your opponent may play or use
+one [defense icon] card by playing it from his or her hand (such as a
+physical combat card that stops a physical attack), or by
+using something already in play (such as a Power or Setup).
+Cards used defensively do things like reduce the damage of
+an attack, or stop all damage completely. When a card Stops
+an attack, the attack does not hit and deals no damage. The immediate effects of [attack icon] and [defense icon] cards always take place as
+soon as they are played. Some cards have effects which work
+only after an unstopped attack deals damage (“HIT effects”).
+There are two types of attacks - Energy Attacks and Physical
+Attacks. Energy Attacks generally deal damage directly to
+the opponent’s Life Deck by discarding cards from it, while
+Physical Attacks usually lower your opponent’s Power Stages.
+Most Energy Attacks cost Power Stages to perform. To pay
+for an Energy Attack, lower your Main Personality the required
+number of Power Stages. If you do not have enough stages
+to pay for an attack, you are unable to play it. Many Energy
+Attacks deal damage in the form of Life Cards. To take Life
+Cards of damage, discard cards one at a time from the top of
+your Life Deck and place them in your discard pile.
+
+Physical Attacks usually have no cost to perform and deal
+damage based on your Power Level. To calculate the damage
+of a physical attack, you’ll reference the Attack Table (“AT”).
+
+AT TA C K E R
+
+DEFENDER
+0-999
+A
+1,000-9,999
+B
+10,000-99,999
+C
+D 100,000-499,999
+E 500,000-1,499,999
+1,500,000+
+F
+
+A
+1
+2
+3
+4
+5
+6
+
+B
+0
+1
+2
+3
+4
+5
+
+C
+0
+0
+1
+2
+3
+4
+
+D
+0
+0
+0
+1
+2
+3
+
+E
+0
+0
+0
+0
+1
+2
+
+F
+0
+0
+0
+0
+0
+1
+
+Find your Power Level in one of the A-F Attacker rows and
+compare it to the Power Level of your opponent’s Main Personality
+in the A-F Defender columns. For example, Vegeta performs a
+Physical Attack against Goku. Vegeta’s current Power Level is
+90,000, placing him in the C bracket. Goku’s Power Level of 7,000
+puts him in the B bracket, so the AT value is 2.
+Whenever you take Power Stages of damage at a Power Level of
+zero, the remaining stages are taken as Life Cards of damage from
+the top of your Life Deck. For example, Goku deals five Power
+Stages of damage to Vegeta. Vegeta is at two Power Stages above
+zero. He lowers his Scouter to zero, and then takes three Life Cards
+of damage by discarding the top three cards of his Life Deck.
+
+DAMAGE SUMMARY
+Attacks may have some or all of their damage prevented or
+reduced. An attack can be stopped, which causes it to do no
+damage. Attacks that are not stopped deal damage and perform
+any “HIT” effects. After that, if your attack dealt enough
+damage, you may then use a critical damage effect.
+
+WHEN TAKING DAMAGE...
+There are two things you should watch for when taking damage.
+Since Dragon Balls are placed at the bottom of your Life Deck after
+being discarded, they do not count towards the total and require a
+replacement discard. If you are taking damage and can only discard
+Dragon Balls, your opponent wins by Survival Victory.
+Some cards have Endurance. Whenever a card with 		
+Endurance is being discarded as damage, you may
+Banish it to your Banished Zone in order to prevent
+EN
+DU RANCE
+some or all of the remaining damage. For example,
+you are hit by an Energy Attack dealing six Life Cards of damage.
+You discard the first card from the top of your Life Deck and place
+it in the discard pile, and then the second. You then discard the
+third card - which has Endurance 2. Rather than place the card in
+your discard pile, you choose to Banish that card to your Banished
+Zone - preventing two cards of the remaining damage from this
+attack. You then finish taking damage for the attack by discarding
+one more card and placing it in your discard pile.
+
+2
+
+CRITICAL DAMAGE
+Whenever your opponent discards five or more Life Cards of
+damage from an unstopped attack, you have dealt Critical Damage.
+Whenever you deal Critical Damage, you may use a Critical Damage
+effect. There are three Critical Damage effects to choose from, and
+you may always select any of the three (regardless of whether or
+not they will have any effect):
+»» Capture a Dragon Ball. Gain control of a Dragon Ball your opponent
+has in play by turning it sideways and moving it to your side of
+the table. When you Capture a Dragon Ball, you may choose to
+immediately use all of its effects.
+»» Discard an opponent’s Ally in play.
+»» Lower your opponent’s anger 1 level.
+
+ATTACK TIMING SUMMARY
+1) Pay any costs of the attack.
+2) Use any immediate effects of the attack.
+3) Opponent may play or use one
+card and use its immediate 		
+effects. It is then discarded/banished (if applicable).
+4) Calculate and deal any unstopped or un-prevented damage.
+5) Use any HIT effects.
+6) If Critical Damage was dealt, you may choose a
+Critical Damage effect.
+7) The attack is then discarded/banished (if applicable).
+
+ALLIES DURING COMBAT
+Allies may have damage redirected to them. Whenever your Main
+Personality would lose Power Stages due to damage from an attack,
+you may have an Ally lose those stages instead.
+Allies can also perform Actions or use a Power whenever your Main
+Personality is no more than one Power Stage above zero. When an
+Ally performs an Action, it acts just like your Main Personality. This
+means you can do things like use a Power of an Ally, use the Power
+Level of an Ally when referencing the Attack Table, pay the costs
+of an Energy Attack by lowering the stages of an Ally, and so on.
+Constant (
+) powers on Allies are in effect even when your Main
+Personality is more than one Power Stage above zero.
+
+SAMPLE TURN
+You and your friend open two Starter Decks, and begin the game
+with your Mastery cards in play and your MPs on level 1 at 5 stages
+above zero. After rolling dice to see who goes first, you begin the
+first turn of the game.
+You begin with the Draw Step and draw three cards. It is now your
+Planning Step, so you can play any Setups, Drills, Allies, or Dragon
+Balls in your hand. You have a Setup that draws a card, so you play it
+onto the table. You then raise your MP’s stages by its PUR amount,
+and your Planning Step is complete.
+At this time, you have the option to declare combat. You do not elect
+to declare combat, and move on to the Discard Step. Since you still
+have two cards in your hand, you choose one card to discard to your
+discard pile (and hold onto the other). Finally, the Rejuvenation Step
+occurs. Since you did not declare combat, you may Rejuvenate the
+top card of your discard pile by placing it on the bottom of your Life
+Deck. Now, it is your opponent’s turn.
+Your opponent draws three cards for his or her Draw Step, then
+enters the Planning Step. Your opponent has nothing to play during
+the Planning Step, and powers up his or her MP using its PUR.
+Your opponent then declares combat. At this time, he or she uses
+the “when entering combat” effect of his or her MP. After your
+opponent finishes using any “when entering combat” effects, you
+may then use any “when entering combat” effects before drawing
+three cards. You do not have any effects to use, so you draw three
+cards. One of your drawn cards is a Drill, which cannot be played at
+this time.
+
+Your opponent may now make the first Action in combat, and starts
+off by playing a physical attack dealing AT + 3 stages. The attack has
+an immediate effect of raising your opponent’s anger, which takes
+place before you decide to defend. At this time, you may play or
+use one
+card. You play a card that stops a physical attack, so the
+attack deals no damage.
+It is now your Action, and you elect to activate your Setup that
+draws a card. Use its effect, then discard it. On your opponent’s
+next action, he or she uses a physical attack dealing AT + 2 stages.
+You are unable to defend, so you refer to the Attack Table. Your
+opponent’s MP has a current Power Level of 20,000, which is in the
+C bracket. Your MP is seven stages above zero, which puts your
+Power Level at 7,000 in the B bracket. C to B results in an AT value
+of 2, + 2 from the attack’s effect, for a total of 4 stages of damage.
+Your MP is lowered four stages, and your opponent may now use
+any HIT effects of that attack.
+Your next action is to use the Power of your MP, which is an energy
+attack costing 2 stages and dealing six Life Cards of damage. Your
+MP is lowered two stages to pay for the attack, and your opponent
+may now play or use one
+card. Your opponent does not stop
+the attack, and must now discard 6 Life Cards of damage. On the
+fifth discard, your opponent reveals a card with Endurance 1 and
+banishes it to prevent the remaining Life Card of damage. However,
+your successful attack still dealt Critical Damage. At this time, you
+would use any HIT effects of the attack, then choose a Critical
+Damage effect. You elect to lower your opponent’s anger 1 level.
+Your opponent passes for his or her next Action, and you do
+the same. Each player discards down to one or zero cards, the
+Rejuvenation step takes place (no Rejuvenation occurs since your
+opponent declared combat), and it is then your turn. You start again
+at the Draw Step by drawing three cards, and the game continues
+from there.
+Now you know everything you need to play your first match of
+the Dragon Ball Z TCG. However, this is just your first step on the
+path to becoming a true master! Stick to using a Starter Deck at
+first, and then expand on your strategies by adding new cards from
+Booster Packs. As you hone your skills and perfect your deck, you’ll
+discover countless interactions between all the different cards
+available to you. It’s a game of limitless possibilities! Crafting your
+deck, collecting new cards, playing new opponents with different
+strategies, discovering new combos...all this and more awaits you in
+the world of the Dragon Ball Z card game!
+
+GLOSSARY
+Ally: Allies enter play at 3 stages above 0 unless otherwise indicated.
+Allies may make Actions or use a Power when your MP is no more
+than one stage above zero.
+Powers of Allies are always in effect,
+even when your MP is more than one stage above zero.
+
+c
+
+AT: The Attack Table is used to determine AT values by comparing
+the attacker’s Power Level bracket against the Power Level of the
+defender. Cards may reference the value of the result from the
+Attack Table for calculations that are not power stage damage.
+Attached Cards: Some cards attach themselves to things in play.
+“While attached” text is always active as long as it is attached
+to the intended target (“attach to ____”). Attached cards are also
+considered “in play” while attached to the intended target.
+Actions: Actions are things you do during combat such as using a
+Power, activating a Setup, or performing an attack. Note: Playing or
+using a
+card to respond to an attack is not an Action.
+
+d
+
+Dragon Balls: Whenever a Dragon Ball is discarded or destroyed,
+place it on the bottom of your Life Deck. If a Dragon Ball is discarded
+or destroyed and it matches a Dragon Ball already in play, it is
+Banished. When you capture a Dragon Ball (through a card effect or
+a Critical Damage effect), gain control of a Dragon Ball your opponent
+has in play by turning it sideways and moving it to your side of
+the table. When you capture a Dragon Ball, you may use all of its
+immediate effects.
+Endurance: Cards with Endurance can prevent damage when being
+discarded from an attack, and their Endurance total is listed in an
+Endurance icon or written at the top of the card’s effects.
+Effects: Immediate effects are the effects on a card that take
+place soon as they are played. HIT effects require an attack to be
+successful, and take place after dealing damage. Floating effects are
+effects that have been created by a card that is no longer in play.
+Whenever you play or use a card, resolve its immediate effects in
+the order listed on the card (one sentence at a time). Then, discard
+or banish the card (if applicable). Effects that take place with a
+contextual timing (i.e. “whenever,” “if,” “after,” etc.) take place
+immediately after finishing the resolution of a sentence. When you
+have multiple effects to resolve with the exact same timing, you may
+choose the order in which they occur. If both players have effects to
+resolve with the exact same timing, the player who initiated combat
+resolves all effects first.
+
+Gaining/losing stages: Whenever an effect causes you to gain or
+lose stages, you may choose any one personality you control to gain/
+lose the total amount. Whenever a personality would lose stages at a
+power level of 0, the remaining amount of stages are discarded from
+the Life Deck. Note that destroying/discarding directly from the Life
+Deck is different from taking damage (you may not use Endurance,
+and Dragon Balls do not require a replacement discard).
+Modifiers: Any “+” or “-“ effect is considered a modifier.
+“Naming” a card: Whenever an effect requires you to name a card,
+you have one opportunity to name an exact card tile (personalities
+require sub-names to be named). Dragon Balls may never be
+“named" with an effect.
+Parenthesis Text: This text can never be overridden or superseded
+by other card effects.
+Personality: Both MPs and Allies are considered personalities.
+“Playing” vs. “Placing into play”: Playing a card is different from
+placing a card into play. Whenever an effect allows you to “play”
+a card, treat it as though you played it from your hand. You must
+pay any costs, and if it is a Dragon Ball you must use its immediate
+effects. Conversely, “placing into play” does not require any costs,
+and you would not use a Dragon Ball’s immediate effects.
+Power: Effects that can be used during Combat. Powers of Main
+Personalities, Masteries, and Allies can only be used once per turn
+regardless of things such as advancing/lowering a Level or leaving/
+reentering play.
+Power Level: The number rating of your current Power Stage.
+Power Stages: Your MP has 11 Power Stages, each with a different
+Power Level. You will gain and lose stages throughout the course
+of the game, and you can keep track of them with dice
+or the back of a card.
+Rejuvenate: Place the top card from your discard pile at the bottom
+of your Life Deck. When a single instance of Rejuvenation causes
+you to Rejuvenate multiple cards, they are Rejuvenated one at a time
+(starting with the top card).
+Searching a Life Deck: Whenever an effect searches your entire
+Life Deck, you must shuffle after searching. Whenever an effect
+causes you to search your Life Deck for a card and you fail to find it,
+your opponent may search your Life Deck to verify its contents.
+
+Thanks to all the Dragon Ball Z fans and players
+for making this game possible!
+Credits
+Brand Manager: Aik Tongtharadol
+Game Design and Development Manager: Richie Williams
+Game Design, Development, and Playtesting:
+Joey DiCarlo, Eric Kunkel, Sean Poestkoke
+Game Development and Playtesting: Dominick DiCarlo,
+Nick Glaser, Joel Glasser, Garrett Wilkinson, George Wilkinson
+Graphic Design: Lupe Partida, Cody Peterson, Tré Hattier
+Rulebook Copy: Richie Williams
+Dragon Ball Z ™ Original Game Design and Developers:
+James M. Ward, David Eckhard, Israel Quiroz
+For more information about the game, upcoming events and
+tournaments, and future products, check out:
+www.DBZTCG.com
+and
+paniniamericadbz.wordpress.com.
+For more information about the show check out:
+www.dragonballz.com
+Version 3.0
+
+ICONS
+
+Cards have different icons that tell you when they can be used.
+- [attack icon] A card that performs an attack
+- [defense icon] A defensive card that can be used against attacks
+- [constant icon] A continuous effect that is constantly active while the card is in play
+- An effect that may be used immediately, whenever appropriate
+TURN SEQUENCE
+
+1) Draw Step – Draw three cards.
+2) Planning Step – Play any Allies, Setups, Drills, or Dragon Balls
+and then power up each of your personalities.
+3) Combat Step (optional) – Your opponent draws three cards
+and then you both alternate actions.
+4) Discard Step – Discard cards from your hand (one at a time)
+until you have one or zero held cards.
+Then, your opponent must do the same.
+5) Rejuvenation Step – If you did not enter the Combat Step,
+rejuvenate the top card of your discard pile.
+Your opponent now begins the next turn.
+ATTACK TABLE (AT)
+
+AT TA C K E R
+
+DEFENDER
+
+A
+B
+C
+D
+E
+F
+
+0-999
+1,000-9,999
+10,000-99,999
+100,000-499,999
+500,000-1,499,999
+1,500,000+
+
+A
+1
+2
+3
+4
+5
+6
+
+B
+0
+1
+2
+3
+4
+5
+
+C
+0
+0
+1
+2
+3
+4
+
+D
+0
+0
+0
+1
+2
+3
+
+E
+0
+0
+0
+0
+1
+2
+
+F
+0
+0
+0
+0
+0
+1
+
+© 2016 Panini America, Inc. 5325 FAA Blvd., Suite 100, Irving, TX 75061-3601 Printed in the USA.
+For Conformity Certificate visit www.paniniamerica.net ©BIRD STUDIO/SHUEISHA, TOEI ANIMATION. License coordinated by Funimation® Productions, Ltd.
+All Rights Reserved. Dragon Ball Z and all logos, character names and distinctive likenesses thereof are trademarks of SHUEISHA, INC.
+
+
